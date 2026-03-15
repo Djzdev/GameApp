@@ -9,5 +9,5 @@ Goal:
 5. Instant File Transfer
 
 Ideas:
-1. Glassmorph
+1. Glassmorph or Bento
 2. Purple or Red
